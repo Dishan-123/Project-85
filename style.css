@@ -1,0 +1,15 @@
+concrete-roadody
+{background-image:url("concrete-road.gif");
+background-position: center;
+background-size: cover;}
+
+canvas
+{margin-top:50px;
+border: 10px ridge;
+background-image:url("parkingLot.jpg");}
+
+h1
+{color: white !important;}
+
+h4
+{color: red !important;}
